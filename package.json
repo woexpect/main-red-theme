@@ -1,0 +1,22 @@
+{
+    "name": "main-red",
+    "displayName": "Main Red",
+    "description": "A Red-ish color theme for VSCode.",
+    "version": "1.0.0",
+    "publisher": "woexpect",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Main Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Main Red-color-theme.json"
+            }
+        ]
+    }
+}
